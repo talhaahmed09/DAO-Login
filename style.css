@@ -277,7 +277,7 @@ footer {
   and (orientation: portrait) {
    .priv-user{
      padding-top: 0 !important;
-     padding-bottom: 1rem !important;
+     padding-bottom: 2rem !important;
      margin: 0 auto;
  
    }
@@ -331,7 +331,7 @@ footer {
     }
 
     footer {
-        padding-top: 1.5rem;
+        padding-top: 3rem;
     }
     
     .last-span {
