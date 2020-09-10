@@ -141,7 +141,7 @@ li {
 .backimg {
     background-image: url(./images/dao-logo-only-blocks\ \(1\).svg); 
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: contain;
     background-position-x: right;
     background-position-y: bottom;
    
